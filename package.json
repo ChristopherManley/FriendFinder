@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "GA Tech Homework 13",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherManley/FriendFinder.git"
+  },
+  "author": "Chris Manley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherManley/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/ChristopherManley/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
